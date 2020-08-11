@@ -1,0 +1,23 @@
+.note {
+    width: 180px;
+    height: 240px;
+    position: absolute;
+    overflow-y: visible;
+    padding: .5em;
+    transform-origin: top;
+    -webkit-box-shadow: 1px 3px 5px 0px rgba(0,0,0,0.25);
+    -moz-box-shadow: 1px 3px 5px 0px rgba(0,0,0,0.25);
+    box-shadow: 1px 3px 5px 0px rgba(0,0,0,0.25);
+}
+
+.header {
+    height: 20px;
+}
+
+.pin {
+    width: 20px;
+    height: 20px;
+    margin: auto;
+    border-radius: 50%;
+    background-image: radial-gradient(#C62828,#EF5350 );
+}

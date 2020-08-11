@@ -1,6 +1,11 @@
 {
-  "name": "4boards",
-  "version": "0.1.0",
+  "name": "virtual-pinboard",
+  "version": "0.2.0",
+  "author": {
+    "email": "abdullah45454@gmail.com",
+    "name": "Abdullah Aleiti"
+  },
+  "description": "A virtual pinboard for sticking notes.",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
@@ -10,10 +15,15 @@
     "@types/node": "^12.0.0",
     "@types/react": "^16.9.0",
     "@types/react-dom": "^16.9.0",
+    "@types/react-modal": "^3.10.6",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
+    "react-hotkeys-hook": "^2.2.2",
+    "react-modal": "^3.11.2",
     "react-scripts": "3.4.1",
-    "typescript": "~3.7.2"
+    "react-uid": "^2.3.0",
+    "typescript": "~3.7.2",
+    "use-sound": "^1.0.2"
   },
   "scripts": {
     "start": "react-scripts start",
