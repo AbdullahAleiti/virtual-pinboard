@@ -9,6 +9,11 @@ const modalStyle : CSSProperties = {
     transform: "translate(-50%, -50%)"
 }
 
+const buttonStyle : CSSProperties = {
+    padding: "1em",
+    fontSize: "1em"
+}
+
 export interface Props {
     children : any
     open : boolean
@@ -21,7 +26,7 @@ const Modal = ({children,open,close}:Props) => {
     return ReactDOM.createPortal(
         <div style={modalStyle}>
             {children}
-            <button onClick={close}>close</button>
+            <button onClick={close} style={buttonStyle}>close</button>
         </div>
     ,document.getElementById("portal")!)
 }
