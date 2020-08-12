@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/virtual-pinboard/static/css/main.4e319de8.chunk.css",
+    "main.js": "/virtual-pinboard/static/js/main.10fd63b4.chunk.js",
+    "main.js.map": "/virtual-pinboard/static/js/main.10fd63b4.chunk.js.map",
+    "runtime-main.js": "/virtual-pinboard/static/js/runtime-main.1e0862e8.js",
+    "runtime-main.js.map": "/virtual-pinboard/static/js/runtime-main.1e0862e8.js.map",
+    "static/js/2.9477f214.chunk.js": "/virtual-pinboard/static/js/2.9477f214.chunk.js",
+    "static/js/2.9477f214.chunk.js.map": "/virtual-pinboard/static/js/2.9477f214.chunk.js.map",
+    "static/js/3.0c3bf7b7.chunk.js": "/virtual-pinboard/static/js/3.0c3bf7b7.chunk.js",
+    "static/js/3.0c3bf7b7.chunk.js.map": "/virtual-pinboard/static/js/3.0c3bf7b7.chunk.js.map",
+    "index.html": "/virtual-pinboard/index.html",
+    "precache-manifest.f6a7ed0b6edb2b7a50071d7a972dba6a.js": "/virtual-pinboard/precache-manifest.f6a7ed0b6edb2b7a50071d7a972dba6a.js",
+    "service-worker.js": "/virtual-pinboard/service-worker.js",
+    "static/css/main.4e319de8.chunk.css.map": "/virtual-pinboard/static/css/main.4e319de8.chunk.css.map",
+    "static/js/2.9477f214.chunk.js.LICENSE.txt": "/virtual-pinboard/static/js/2.9477f214.chunk.js.LICENSE.txt",
+    "static/js/3.0c3bf7b7.chunk.js.LICENSE.txt": "/virtual-pinboard/static/js/3.0c3bf7b7.chunk.js.LICENSE.txt",
+    "static/media/dart-sound.mp3": "/virtual-pinboard/static/media/dart-sound.f2d77bcb.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1e0862e8.js",
+    "static/js/2.9477f214.chunk.js",
+    "static/css/main.4e319de8.chunk.css",
+    "static/js/main.10fd63b4.chunk.js"
+  ]
+}
